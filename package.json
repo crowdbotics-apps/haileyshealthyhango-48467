@@ -20,6 +20,7 @@
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
+    "@modules/subscription": "file:./modules/subscription",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
